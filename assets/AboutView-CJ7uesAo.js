@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as e,a as o}from"./index-S9dObYew.js";const c="/assets/android-chrome-DHwxqP3p.png",a={},n={class:"about"},_=o("img",{width:"50",src:c,alt:"Vue logo"},null,-1),r=o("h1",null,"This is an about page",-1),i=[_,r];function d(l,h){return t(),e("div",n,i)}const p=s(a,[["render",d]]);export{p as default};
